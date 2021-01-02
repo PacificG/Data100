@@ -4,35 +4,34 @@ The data science lifecycle involves the following general steps:
 
 1. Question/Problem Formulation:
 
-1. What do we want to know or what problems are we trying to solve?
+    1. What do we want to know or what problems are we trying to solve?
 
-2. What are our hypotheses?
+    2. What are our hypotheses?
 
-What are our metrics of success?
+    3. What are our metrics of success?
 
+2. Data Acquisition and Cleaning:
 
-Data Acquisition and Cleaning:
+    1. What data do we have and what data do we need?
 
-What data do we have and what data do we need?
+    2. How will we collect more data?
 
-How will we collect more data?
+    3. How do we organize the data for analysis?
 
-How do we organize the data for analysis?
+3. Exploratory Data Analysis:
 
+    1. Do we already have relevant data?
 
-Exploratory Data Analysis:
+    2. What are the biases, anomalies, or other issues with the data?
 
-Do we already have relevant data?
+    3. How do we transform the data to enable effective analysis?
 
-What are the biases, anomalies, or other issues with the data?
+4. Prediction and Inference:
 
-How do we transform the data to enable effective analysis?
+    1. What does the data say about the world?
 
+    2. Does it answer our questions or accurately solve the problem?
 
-Prediction and Inference:
+    3. How robust are our conclusions?
 
-What does the data say about the world?
-
-Does it answer our questions or accurately solve the problem?
-
-How robust are our conclusions?
+    
